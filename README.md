@@ -1,2 +1,2 @@
 # dwemo
-trail
+trail of version control system
